@@ -1,0 +1,4288 @@
+[
+    {
+        "id": 1,
+        "name": "Urozgan",
+        "nameFa": "اورزگان",
+        "namePa": "اورزگان",
+        "latitude": "32.803787",
+        "longitude": "65.544314",
+        "districts": [
+            {
+                "id": 392,
+                "name": "Chora",
+                "nameFa": "چوره",
+                "namePa": "چوره",
+                "latitude": "33.022580",
+                "longitude": "66.239689"
+            },
+            {
+                "id": 393,
+                "name": "Deh Rahwod",
+                "nameFa": "دهراوود",
+                "namePa": "دهراوود",
+                "latitude": "32.635969",
+                "longitude": "65.498235"
+            },
+            {
+                "id": 394,
+                "name": "Khas Uruzgan",
+                "nameFa": "ارزگان خاص",
+                "namePa": "ارزگان خاص",
+                "latitude": "32.977052",
+                "longitude": "66.729130"
+            },
+            {
+                "id": 395,
+                "name": "Shahidi Hassas",
+                "nameFa": "شهید حساس",
+                "namePa": "شهید حساس",
+                "latitude": "32.932212",
+                "longitude": "65.538666"
+            },
+            {
+                "id": 396,
+                "name": "Tarin Kowt",
+                "nameFa": "ترینکوت",
+                "namePa": "ترینکوت",
+                "latitude": "32.654960",
+                "longitude": "65.849924"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Badghis",
+        "nameFa": "بادغیس",
+        "namePa": "بادغیس",
+        "latitude": "35.277973",
+        "longitude": "63.311658",
+        "districts": [
+            {
+                "id": 236,
+                "name": "Ab Kamari",
+                "nameFa": "آب کمری",
+                "namePa": "آب کمری",
+                "latitude": "35.013638",
+                "longitude": "62.966459"
+            },
+            {
+                "id": 237,
+                "name": "Ghormach",
+                "nameFa": "غورماچ",
+                "namePa": "غورماچ",
+                "latitude": "35.734121",
+                "longitude": "63.811634"
+            },
+            {
+                "id": 238,
+                "name": "Jawand",
+                "nameFa": "جوند",
+                "namePa": "جوند",
+                "latitude": "34.972066",
+                "longitude": "64.274702"
+            },
+            {
+                "id": 239,
+                "name": "Muqur",
+                "nameFa": "مقر",
+                "namePa": "مقر",
+                "latitude": "35.108166",
+                "longitude": "63.260315"
+            },
+            {
+                "id": 240,
+                "name": "Murghab",
+                "nameFa": "بالا مرغاب",
+                "namePa": "بالا مرغاب",
+                "latitude": "35.496473",
+                "longitude": "63.489881"
+            },
+            {
+                "id": 241,
+                "name": "Qadis",
+                "nameFa": "قادس",
+                "namePa": "قادس",
+                "latitude": "34.798054",
+                "longitude": "63.578057"
+            },
+            {
+                "id": 242,
+                "name": "Qala-I-Naw",
+                "nameFa": "قلعه نو",
+                "namePa": "قلعه نو",
+                "latitude": "34.861003",
+                "longitude": "63.130681"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Bamyan",
+        "nameFa": "بامیان",
+        "namePa": "بامیان",
+        "latitude": "34.812802",
+        "longitude": "67.786331",
+        "districts": [
+            {
+                "id": 244,
+                "name": "Kahmard",
+                "nameFa": "کهمرد",
+                "namePa": "کهمرد",
+                "latitude": "35.340373",
+                "longitude": "67.749258"
+            },
+            {
+                "id": 245,
+                "name": "Panjab",
+                "nameFa": "پنجاب",
+                "namePa": "پنجاب",
+                "latitude": "34.386890",
+                "longitude": "66.930673"
+            },
+            {
+                "id": 246,
+                "name": "Sayghan",
+                "nameFa": "سیغان",
+                "namePa": "سیغان",
+                "latitude": "35.124416",
+                "longitude": "67.624207"
+            },
+            {
+                "id": 247,
+                "name": "Shibar",
+                "nameFa": "شیبر",
+                "namePa": "شیبر",
+                "latitude": "34.891351",
+                "longitude": "68.027679"
+            },
+            {
+                "id": 248,
+                "name": "Waras",
+                "nameFa": "ورث",
+                "namePa": "ورث",
+                "latitude": "34.163208",
+                "longitude": "66.930112"
+            },
+            {
+                "id": 249,
+                "name": "Yakawlang",
+                "nameFa": "یکاولنگ",
+                "namePa": "یکاولنگ",
+                "latitude": "35.039948",
+                "longitude": "66.994871"
+            },
+            {
+                "id": 412,
+                "name": "Shebar",
+                "nameFa": "شیبر",
+                "namePa": "شیبر",
+                "latitude": "34.891351",
+                "longitude": "68.027679"
+            },
+            {
+                "id": 413,
+                "name": "Center of Bamyan",
+                "nameFa": "مرکز بامیان",
+                "namePa": "مرکز بامیان",
+                "latitude": "34.755695",
+                "longitude": "67.640391"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Badakhshan",
+        "nameFa": "بدخشان",
+        "namePa": "بدخشان",
+        "latitude": "36.962596",
+        "longitude": "71.317060",
+        "districts": [
+            {
+                "id": 1,
+                "name": "Arghanj Khwa",
+                "nameFa": "ارغنجخواه",
+                "namePa": "ارغنجخواه",
+                "latitude": "37.366577",
+                "longitude": "70.970672"
+            },
+            {
+                "id": 2,
+                "name": "Argo",
+                "nameFa": "ارگو",
+                "namePa": "ارگو",
+                "latitude": "37.031002",
+                "longitude": "70.413852"
+            },
+            {
+                "id": 3,
+                "name": "Baharak",
+                "nameFa": "بهارک",
+                "namePa": "بهارک",
+                "latitude": "37.017329",
+                "longitude": "70.910623"
+            },
+            {
+                "id": 4,
+                "name": "Darayim",
+                "nameFa": "درایم",
+                "namePa": "درایم",
+                "latitude": "36.892505",
+                "longitude": "70.412044"
+            },
+            {
+                "id": 5,
+                "name": "Fayzabad",
+                "nameFa": "فیض آباد",
+                "namePa": "فیض آباد",
+                "latitude": "37.217022",
+                "longitude": "70.628150"
+            },
+            {
+                "id": 6,
+                "name": "Ishkashim",
+                "nameFa": "اشکاشم",
+                "namePa": "اشکاشم",
+                "latitude": "36.879760",
+                "longitude": "71.449280"
+            },
+            {
+                "id": 7,
+                "name": "Jurm",
+                "nameFa": "جورم",
+                "namePa": "جورم",
+                "latitude": "36.724775",
+                "longitude": "70.898020"
+            },
+            {
+                "id": 8,
+                "name": "Khash",
+                "nameFa": "خاش",
+                "namePa": "خاش",
+                "latitude": "36.951918",
+                "longitude": "70.714720"
+            },
+            {
+                "id": 9,
+                "name": "Khwahan",
+                "nameFa": "خواهان",
+                "namePa": "خواهان",
+                "latitude": "36.748310",
+                "longitude": "70.127355"
+            },
+            {
+                "id": 10,
+                "name": "Kishim",
+                "nameFa": "کشم",
+                "namePa": "کشم",
+                "latitude": "36.748310",
+                "longitude": "70.127360"
+            },
+            {
+                "id": 11,
+                "name": "Kohistan",
+                "nameFa": "کوهستان",
+                "namePa": "کوهستان",
+                "latitude": "37.410686",
+                "longitude": "70.662149"
+            },
+            {
+                "id": 12,
+                "name": "Kuf Ab",
+                "nameFa": "کوف آب",
+                "namePa": "کوف آب",
+                "latitude": "37.957225",
+                "longitude": "70.699284"
+            },
+            {
+                "id": 13,
+                "name": "Kuran Wa Munjan",
+                "nameFa": "کوران و منجان",
+                "namePa": "کوران و منجان",
+                "latitude": "35.902981",
+                "longitude": "70.698369"
+            },
+            {
+                "id": 14,
+                "name": "Maimay",
+                "nameFa": "ماهمی",
+                "namePa": "ماهمی",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 15,
+                "name": "Nusay",
+                "nameFa": "نُسی",
+                "namePa": "نُسی",
+                "latitude": "38.444539",
+                "longitude": "70.796354"
+            },
+            {
+                "id": 16,
+                "name": "Ragh",
+                "nameFa": "راغ",
+                "namePa": "راغ",
+                "latitude": "37.679910",
+                "longitude": "70.640170"
+            },
+            {
+                "id": 17,
+                "name": "Shahri Buzurg",
+                "nameFa": "شهری بزگ",
+                "namePa": "شهری بزگ",
+                "latitude": "37.315953",
+                "longitude": "70.144747"
+            },
+            {
+                "id": 18,
+                "name": "Shekay",
+                "nameFa": "شُکی",
+                "namePa": "شُکی",
+                "latitude": "38.216157",
+                "longitude": "70.697576"
+            },
+            {
+                "id": 19,
+                "name": "Shighnan",
+                "nameFa": "شغنان",
+                "namePa": "شغنان",
+                "latitude": "37.608850",
+                "longitude": "71.366023"
+            },
+            {
+                "id": 20,
+                "name": "Shuhada",
+                "nameFa": "شهدا",
+                "namePa": "شهدا",
+                "latitude": "37.061091",
+                "longitude": "71.185928"
+            },
+            {
+                "id": 21,
+                "name": "Tagab",
+                "nameFa": "تگاب",
+                "namePa": "تگاب",
+                "latitude": "36.479764",
+                "longitude": "70.341949"
+            },
+            {
+                "id": 22,
+                "name": "Tishkan",
+                "nameFa": "تیشکان",
+                "namePa": "تیشکان",
+                "latitude": "36.800862",
+                "longitude": "70.366348"
+            },
+            {
+                "id": 23,
+                "name": "Wakhan",
+                "nameFa": "واخان",
+                "namePa": "واخان",
+                "latitude": "37.030948",
+                "longitude": "73.220085"
+            },
+            {
+                "id": 24,
+                "name": "Wurduj",
+                "nameFa": "وردوج",
+                "namePa": "وردوج",
+                "latitude": "36.790874",
+                "longitude": "71.142940"
+            },
+            {
+                "id": 25,
+                "name": "Yaftali",
+                "nameFa": "یافت علی",
+                "namePa": "یافت علی",
+                "latitude": "37.292510",
+                "longitude": "70.361650"
+            },
+            {
+                "id": 26,
+                "name": "Yamgan",
+                "nameFa": "یمگان",
+                "namePa": "یمگان",
+                "latitude": "36.432054",
+                "longitude": "70.784600"
+            },
+            {
+                "id": 27,
+                "name": "Yawan",
+                "nameFa": "یاوان",
+                "namePa": "یاوان",
+                "latitude": "37.514601",
+                "longitude": "70.388243"
+            },
+            {
+                "id": 28,
+                "name": "Zebak",
+                "nameFa": "زیباک",
+                "namePa": "زیباک",
+                "latitude": "36.361303",
+                "longitude": "71.272312"
+            },
+            {
+                "id": 505,
+                "name": "Tashkan",
+                "nameFa": "Tashkan",
+                "namePa": "Tashkan",
+                "latitude": "36.800860",
+                "longitude": "70.366350"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Baghlan",
+        "nameFa": "بغلان",
+        "namePa": "بغلان",
+        "latitude": "35.784673",
+        "longitude": "68.427108",
+        "districts": [
+            {
+                "id": 29,
+                "name": "Andarab",
+                "nameFa": "اندراب",
+                "namePa": "اندراب",
+                "latitude": "35.604741",
+                "longitude": "69.187513"
+            },
+            {
+                "id": 30,
+                "name": "Baghlan",
+                "nameFa": "بغلان",
+                "namePa": "بغلان",
+                "latitude": "36.341590",
+                "longitude": "68.643601"
+            },
+            {
+                "id": 31,
+                "name": "Baghlani Jadid",
+                "nameFa": "بغلان جدید",
+                "namePa": "بغلان جدید",
+                "latitude": "36.297339",
+                "longitude": "68.720497"
+            },
+            {
+                "id": 32,
+                "name": "Burka",
+                "nameFa": "برکه",
+                "namePa": "برکه",
+                "latitude": "36.265304",
+                "longitude": "69.161208"
+            },
+            {
+                "id": 33,
+                "name": "Dahana i Ghuri",
+                "nameFa": "دهنه غوري",
+                "namePa": "دهنه غوري",
+                "latitude": "35.819115",
+                "longitude": "68.421620"
+            },
+            {
+                "id": 34,
+                "name": "Dih Salah",
+                "nameFa": "ده صالح",
+                "namePa": "ده صالح",
+                "latitude": "35.763124",
+                "longitude": "69.309796"
+            },
+            {
+                "id": 35,
+                "name": "Dushi",
+                "nameFa": "دوشي",
+                "namePa": "دوشي",
+                "latitude": "35.582004",
+                "longitude": "68.661703"
+            },
+            {
+                "id": 36,
+                "name": "Farang wa Ghar",
+                "nameFa": "فرنگ او غارو",
+                "namePa": "فرنگ او غارو",
+                "latitude": "36.155049",
+                "longitude": "69.689615"
+            },
+            {
+                "id": 37,
+                "name": "Guzargahi Nur",
+                "nameFa": "گذرگاه نور",
+                "namePa": "گذرگاه نور",
+                "latitude": "36.239069",
+                "longitude": "69.569897"
+            },
+            {
+                "id": 38,
+                "name": "Khinjan",
+                "nameFa": "خنجان",
+                "namePa": "خنجان",
+                "latitude": "35.453058",
+                "longitude": "68.986856"
+            },
+            {
+                "id": 39,
+                "name": "Khost wa Feren",
+                "nameFa": "خوست و فرنگ",
+                "namePa": "خوست و فرنگ",
+                "latitude": "35.983007",
+                "longitude": "69.526947"
+            },
+            {
+                "id": 40,
+                "name": "Khwaja Hijran",
+                "nameFa": "خواجه هجران",
+                "namePa": "خواجه هجران",
+                "latitude": "35.993359",
+                "longitude": "69.294979"
+            },
+            {
+                "id": 41,
+                "name": "Nahrin",
+                "nameFa": "ناهرین",
+                "namePa": "ناهرین",
+                "latitude": "36.004002",
+                "longitude": "69.020081"
+            },
+            {
+                "id": 42,
+                "name": "Puli Hisar",
+                "nameFa": "پل حصار",
+                "namePa": "پل حصار",
+                "latitude": "35.586620",
+                "longitude": "69.535737"
+            },
+            {
+                "id": 43,
+                "name": "Puli Khumri",
+                "nameFa": "پلخمري",
+                "namePa": "پلخمري",
+                "latitude": "36.011946",
+                "longitude": "68.636293"
+            },
+            {
+                "id": 44,
+                "name": "Tala Wa Barfak",
+                "nameFa": "تاله و برفک",
+                "namePa": "تاله و برفک",
+                "latitude": "35.238661",
+                "longitude": "68.342849"
+            },
+            {
+                "id": 460,
+                "name": "Bano",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 475,
+                "name": "Baghlan Markazi",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Balkh",
+        "nameFa": "بلخ",
+        "namePa": "بلخ",
+        "latitude": "36.527221",
+        "longitude": "66.671635",
+        "districts": [
+            {
+                "id": 69,
+                "name": "Balkh",
+                "nameFa": "بلخ",
+                "namePa": "بلخ",
+                "latitude": "36.807653",
+                "longitude": "66.881765"
+            },
+            {
+                "id": 70,
+                "name": "Chahar Bolak",
+                "nameFa": "چار پولک",
+                "namePa": "چار پولک",
+                "latitude": "36.823815",
+                "longitude": "66.597199"
+            },
+            {
+                "id": 71,
+                "name": "Chahar Kint",
+                "nameFa": "چار کنت",
+                "namePa": "چار کنت",
+                "latitude": "36.348266",
+                "longitude": "67.267877"
+            },
+            {
+                "id": 72,
+                "name": "Chimtal",
+                "nameFa": "چمتال",
+                "namePa": "چمتال",
+                "latitude": "36.520381",
+                "longitude": "66.603756"
+            },
+            {
+                "id": 73,
+                "name": "Dawlatabad",
+                "nameFa": "دولت اباد",
+                "namePa": "دولت اباد",
+                "latitude": "37.035584",
+                "longitude": "66.730301"
+            },
+            {
+                "id": 74,
+                "name": "Dihdadi",
+                "nameFa": "دهدادی",
+                "namePa": "دهدادی",
+                "latitude": "36.643033",
+                "longitude": "67.021264"
+            },
+            {
+                "id": 75,
+                "name": "Kaldar",
+                "nameFa": "کُلدار",
+                "namePa": "کُلدار",
+                "latitude": "37.111494",
+                "longitude": "67.520118"
+            },
+            {
+                "id": 76,
+                "name": "Khulmi",
+                "nameFa": "خلم",
+                "namePa": "خلم",
+                "latitude": "36.842767",
+                "longitude": "67.681307"
+            },
+            {
+                "id": 77,
+                "name": "Kishindih",
+                "nameFa": "کشنده",
+                "namePa": "کشنده",
+                "latitude": "35.926279",
+                "longitude": "66.929505"
+            },
+            {
+                "id": 78,
+                "name": "Marmul",
+                "nameFa": "مارمل",
+                "namePa": "مارمل",
+                "latitude": "36.541540",
+                "longitude": "67.388980"
+            },
+            {
+                "id": 79,
+                "name": "Mazar-e-Sharif",
+                "nameFa": "مزارشریف",
+                "namePa": "مزارشریف",
+                "latitude": "36.703226",
+                "longitude": "67.112903"
+            },
+            {
+                "id": 80,
+                "name": "NAHR-E-SHAHI",
+                "nameFa": "نهر شاهی",
+                "namePa": "نهر شاهی",
+                "latitude": "36.827572",
+                "longitude": "67.233530"
+            },
+            {
+                "id": 81,
+                "name": "Sholgara",
+                "nameFa": "شولگره",
+                "namePa": "شولگره",
+                "latitude": "36.292986",
+                "longitude": "66.864805"
+            },
+            {
+                "id": 82,
+                "name": "Shortepa",
+                "nameFa": "شورتپه",
+                "namePa": "شورتپه",
+                "latitude": "37.213477",
+                "longitude": "66.832580"
+            },
+            {
+                "id": 83,
+                "name": "Zari",
+                "nameFa": "زاری",
+                "namePa": "زاری",
+                "latitude": "35.860437",
+                "longitude": "66.714557"
+            },
+            {
+                "id": 424,
+                "name": "Dehdadi",
+                "nameFa": "دهدادی",
+                "namePa": "دهدادی",
+                "latitude": "36.643033",
+                "longitude": "67.021264"
+            },
+            {
+                "id": 456,
+                "name": "Center of Balkh",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 457,
+                "name": "Markaz Shahar",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 458,
+                "name": "Markaz-e-Shahr",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 461,
+                "name": "Nahia Shashum",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 502,
+                "name": "PD 7",
+                "nameFa": "PD 7",
+                "namePa": "PD 7",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 503,
+                "name": "PD 8",
+                "nameFa": "PD 8",
+                "namePa": "PD 8",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 506,
+                "name": "1 PD",
+                "nameFa": "1 PD",
+                "namePa": "1 PD",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Takhar",
+        "nameFa": "تخار",
+        "namePa": "تخار",
+        "latitude": "36.702219",
+        "longitude": "69.277140",
+        "districts": [
+            {
+                "id": 52,
+                "name": "Baharak",
+                "nameFa": "بهارک",
+                "namePa": "بهارک",
+                "latitude": "36.872637",
+                "longitude": "69.414692"
+            },
+            {
+                "id": 53,
+                "name": "Bangi",
+                "nameFa": "بنگي",
+                "namePa": "بنگي",
+                "latitude": "36.616511",
+                "longitude": "69.336677"
+            },
+            {
+                "id": 54,
+                "name": "Chah Ab",
+                "nameFa": "چاه آب",
+                "namePa": "چاه آب",
+                "latitude": "37.426269",
+                "longitude": "69.928441"
+            },
+            {
+                "id": 55,
+                "name": "Chal  ahib",
+                "nameFa": "چال",
+                "namePa": "چال",
+                "latitude": "36.474080",
+                "longitude": "69.562078"
+            },
+            {
+                "id": 56,
+                "name": "Darqad  bad",
+                "nameFa": "درقد",
+                "namePa": "درقد",
+                "latitude": "37.411663",
+                "longitude": "69.521562"
+            },
+            {
+                "id": 57,
+                "name": "Dashti Qala",
+                "nameFa": "دشت قلعه",
+                "namePa": "دشت قلعه",
+                "latitude": "37.196709",
+                "longitude": "69.503505"
+            },
+            {
+                "id": 58,
+                "name": "Farkhar  I-Zal",
+                "nameFa": "فرخار",
+                "namePa": "فرخار",
+                "latitude": "36.477265",
+                "longitude": "69.963273"
+            },
+            {
+                "id": 59,
+                "name": "Hazar Sumuch",
+                "nameFa": "هزار سموچ",
+                "namePa": "هزار سموچ",
+                "latitude": "36.917860",
+                "longitude": "69.586041"
+            },
+            {
+                "id": 60,
+                "name": "Ishkamish",
+                "nameFa": "اشکامش",
+                "namePa": "اشکامش",
+                "latitude": "36.390203",
+                "longitude": "69.386506"
+            },
+            {
+                "id": 61,
+                "name": "Kalafgan",
+                "nameFa": "کلفگان",
+                "namePa": "کلفگان",
+                "latitude": "36.780002",
+                "longitude": "69.908015"
+            },
+            {
+                "id": 62,
+                "name": "Khwaja Baha",
+                "nameFa": "خواجه بهاوالدین",
+                "namePa": "خواجه بهاوالدین",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 63,
+                "name": "Khwaja Ghar",
+                "nameFa": "خواجه غار",
+                "namePa": "خواجه غار",
+                "latitude": "37.008715",
+                "longitude": "69.403914"
+            },
+            {
+                "id": 64,
+                "name": "Namak Ab",
+                "nameFa": "نمک آب",
+                "namePa": "نمک آب",
+                "latitude": "36.431875",
+                "longitude": "69.694930"
+            },
+            {
+                "id": 65,
+                "name": "Rustaq",
+                "nameFa": "روستاق",
+                "namePa": "روستاق",
+                "latitude": "37.110428",
+                "longitude": "69.836849"
+            },
+            {
+                "id": 66,
+                "name": "Taluqan",
+                "nameFa": "تالقان",
+                "namePa": "تالقان",
+                "latitude": "36.742722",
+                "longitude": "69.523116"
+            },
+            {
+                "id": 67,
+                "name": "Warsaj",
+                "nameFa": "ورسج",
+                "namePa": "ورسج",
+                "latitude": "36.104684",
+                "longitude": "70.158583"
+            },
+            {
+                "id": 68,
+                "name": "Yangi Qala",
+                "nameFa": "ینگی قلعه",
+                "namePa": "ینگی قلعه",
+                "latitude": "37.455572",
+                "longitude": "69.660756"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Joz jan",
+        "nameFa": "جوزجان",
+        "namePa": "جوزجان",
+        "latitude": "36.721173",
+        "longitude": "65.314583",
+        "districts": [
+            {
+                "id": 98,
+                "name": "Aqcha",
+                "nameFa": "آقچه",
+                "namePa": "آقچه",
+                "latitude": "36.712205",
+                "longitude": "66.184470"
+            },
+            {
+                "id": 99,
+                "name": "Darzab",
+                "nameFa": "درزآب",
+                "namePa": "درزآب",
+                "latitude": "36.066904",
+                "longitude": "65.334179"
+            },
+            {
+                "id": 100,
+                "name": "Fayzabad",
+                "nameFa": "فیض  آباد",
+                "namePa": "فیض  آباد",
+                "latitude": "36.739860",
+                "longitude": "66.361958"
+            },
+            {
+                "id": 101,
+                "name": "Khamyab",
+                "nameFa": "خمآب",
+                "namePa": "خمآب",
+                "latitude": "37.284268",
+                "longitude": "65.749953"
+            },
+            {
+                "id": 102,
+                "name": "Khaniqa",
+                "nameFa": "خانقاه",
+                "namePa": "خانقاه",
+                "latitude": "36.790770",
+                "longitude": "66.063642"
+            },
+            {
+                "id": 103,
+                "name": "Khwaja Du Koh",
+                "nameFa": "خواجه دو کوه",
+                "namePa": "خواجه دو کوه",
+                "latitude": "36.935396",
+                "longitude": "65.619001"
+            },
+            {
+                "id": 104,
+                "name": "Mardyan",
+                "nameFa": "مردیان",
+                "namePa": "مردیان",
+                "latitude": "37.047888",
+                "longitude": "66.322774"
+            },
+            {
+                "id": 105,
+                "name": "Mingajik",
+                "nameFa": "منگجیک",
+                "namePa": "منگجیک",
+                "latitude": "37.048167",
+                "longitude": "65.988831"
+            },
+            {
+                "id": 106,
+                "name": "Qarqin",
+                "nameFa": "قرقین",
+                "namePa": "قرقین",
+                "latitude": "37.299548",
+                "longitude": "66.032927"
+            },
+            {
+                "id": 107,
+                "name": "Qush Tepa",
+                "nameFa": "قوش تپه",
+                "namePa": "قوش تپه",
+                "latitude": "36.259352",
+                "longitude": "65.383909"
+            },
+            {
+                "id": 108,
+                "name": "Shibirghan",
+                "nameFa": "شبرغان",
+                "namePa": "شبرغان",
+                "latitude": "36.626436",
+                "longitude": "65.778410"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Khost",
+        "nameFa": "خوست",
+        "namePa": "خوست",
+        "latitude": "33.333057",
+        "longitude": "69.916946",
+        "districts": [
+            {
+                "id": 306,
+                "name": "Baak",
+                "nameFa": "باک",
+                "namePa": "باک",
+                "latitude": "33.546179",
+                "longitude": "70.038518"
+            },
+            {
+                "id": 307,
+                "name": "Gurbuz",
+                "nameFa": "گوربز",
+                "namePa": "گوربز",
+                "latitude": "33.205471",
+                "longitude": "69.920756"
+            },
+            {
+                "id": 308,
+                "name": "Jaji Maidan",
+                "nameFa": "جاجی میدان",
+                "namePa": "جاجی میدان",
+                "latitude": "33.612562",
+                "longitude": "70.072186"
+            },
+            {
+                "id": 309,
+                "name": "Khost (Matoon)",
+                "nameFa": "خوست",
+                "namePa": "خوست",
+                "latitude": "33.337571",
+                "longitude": "69.917250"
+            },
+            {
+                "id": 310,
+                "name": "Mandozai",
+                "nameFa": "مندوزی",
+                "namePa": "مندوزی",
+                "latitude": "33.336522",
+                "longitude": "69.803569"
+            },
+            {
+                "id": 311,
+                "name": "Musa Khel",
+                "nameFa": "موسی خیل",
+                "namePa": "موسی خیل",
+                "latitude": "33.539478",
+                "longitude": "69.683320"
+            },
+            {
+                "id": 312,
+                "name": "Nadir Shah Kot",
+                "nameFa": "نادرشاه کوت",
+                "namePa": "نادرشاه کوت",
+                "latitude": "33.386827",
+                "longitude": "69.687169"
+            },
+            {
+                "id": 313,
+                "name": "Qalandar",
+                "nameFa": "قلندر",
+                "namePa": "قلندر",
+                "latitude": "33.488231",
+                "longitude": "69.634336"
+            },
+            {
+                "id": 314,
+                "name": "Sabari",
+                "nameFa": "سبری",
+                "namePa": "سبری",
+                "latitude": "33.492199",
+                "longitude": "69.952329"
+            },
+            {
+                "id": 315,
+                "name": "Shamal",
+                "nameFa": "شمال",
+                "namePa": "شمال",
+                "latitude": "33.321153",
+                "longitude": "69.533903"
+            },
+            {
+                "id": 316,
+                "name": "Spera",
+                "nameFa": "سپیره",
+                "namePa": "سپیره",
+                "latitude": "33.162750",
+                "longitude": "69.469382"
+            },
+            {
+                "id": 317,
+                "name": "Tani",
+                "nameFa": "تنی",
+                "namePa": "تنی",
+                "latitude": "33.204652",
+                "longitude": "69.735546"
+            },
+            {
+                "id": 318,
+                "name": "Tirzayi ( Ali Sher )",
+                "nameFa": "تیره زی",
+                "namePa": "تیره زی",
+                "latitude": "33.380412",
+                "longitude": "70.100040"
+            },
+            {
+                "id": 459,
+                "name": "Center of Khost",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 472,
+                "name": "Provincial",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 481,
+                "name": "Ismail Khail (Mandozai)",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 482,
+                "name": "Dowa Menda",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Daikundi",
+        "nameFa": "دایکندی",
+        "namePa": "دایکندی",
+        "latitude": "33.648533",
+        "longitude": "65.770934",
+        "districts": [
+            {
+                "id": 349,
+                "name": "Gizab",
+                "nameFa": "گیزاب",
+                "namePa": "گیزاب",
+                "latitude": "33.416592",
+                "longitude": "66.183184"
+            },
+            {
+                "id": 350,
+                "name": "Ishtarlay",
+                "nameFa": "اشترلی",
+                "namePa": "اشترلی",
+                "latitude": "34.120485",
+                "longitude": "66.176998"
+            },
+            {
+                "id": 351,
+                "name": "Kajran",
+                "nameFa": "کجران",
+                "namePa": "کجران",
+                "latitude": "33.225734",
+                "longitude": "65.618465"
+            },
+            {
+                "id": 352,
+                "name": "Khadir",
+                "nameFa": "خادر",
+                "namePa": "خادر",
+                "latitude": "33.866089",
+                "longitude": "65.787183"
+            },
+            {
+                "id": 353,
+                "name": "Kiti",
+                "nameFa": "کیتی",
+                "namePa": "کیتی",
+                "latitude": "33.530460",
+                "longitude": "65.747660"
+            },
+            {
+                "id": 354,
+                "name": "Miramor",
+                "nameFa": "میرامور",
+                "namePa": "میرامور",
+                "latitude": "33.826512",
+                "longitude": "66.987777"
+            },
+            {
+                "id": 355,
+                "name": "Nili",
+                "nameFa": "نیلی",
+                "namePa": "نیلی",
+                "latitude": "33.741085",
+                "longitude": "66.078538"
+            },
+            {
+                "id": 356,
+                "name": "Sangtakht",
+                "nameFa": "سنگ تخت",
+                "namePa": "سنگ تخت",
+                "latitude": "34.178306",
+                "longitude": "65.860740"
+            },
+            {
+                "id": 357,
+                "name": "Shahristan",
+                "nameFa": "شهرستان",
+                "namePa": "شهرستان",
+                "latitude": "33.694575",
+                "longitude": "66.480494"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Zabul",
+        "nameFa": "زابل",
+        "namePa": "زابل",
+        "latitude": "32.293266",
+        "longitude": "66.594359",
+        "districts": [
+            {
+                "id": 397,
+                "name": "Argahandab",
+                "nameFa": "ارغنداب",
+                "namePa": "ارغنداب",
+                "latitude": "32.499332",
+                "longitude": "66.919664"
+            },
+            {
+                "id": 398,
+                "name": "Atghar",
+                "nameFa": "اتغار",
+                "namePa": "اتغار",
+                "latitude": "31.727599",
+                "longitude": "67.331240"
+            },
+            {
+                "id": 399,
+                "name": "Daychopan",
+                "nameFa": "دای چوپان",
+                "namePa": "دای چوپان",
+                "latitude": "32.622724",
+                "longitude": "66.690931"
+            },
+            {
+                "id": 400,
+                "name": "Kakar",
+                "nameFa": "کاکر",
+                "namePa": "کاکر",
+                "latitude": "32.835683",
+                "longitude": "67.148996"
+            },
+            {
+                "id": 401,
+                "name": "Mizan",
+                "nameFa": "میزان",
+                "namePa": "میزان",
+                "latitude": "32.183381",
+                "longitude": "66.500889"
+            },
+            {
+                "id": 402,
+                "name": "Naw Bahar",
+                "nameFa": "نو بهار",
+                "namePa": "نو بهار",
+                "latitude": "32.199902",
+                "longitude": "67.585131"
+            },
+            {
+                "id": 403,
+                "name": "Qalat",
+                "nameFa": "قلات",
+                "namePa": "قلات",
+                "latitude": "32.187366",
+                "longitude": "66.953465"
+            },
+            {
+                "id": 404,
+                "name": "Shah Joy",
+                "nameFa": "شاه جوی",
+                "namePa": "شاه جوی",
+                "latitude": "32.494161",
+                "longitude": "67.350653"
+            },
+            {
+                "id": 405,
+                "name": "Shamulzayi",
+                "nameFa": "شمولزی",
+                "namePa": "شمولزی",
+                "latitude": "31.834888",
+                "longitude": "67.776621"
+            },
+            {
+                "id": 406,
+                "name": "Shinkay",
+                "nameFa": "شینکی",
+                "namePa": "شینکی",
+                "latitude": "31.933383",
+                "longitude": "67.180964"
+            },
+            {
+                "id": 407,
+                "name": "Tarnak Wa Jaldak",
+                "nameFa": "ترنک او جلدک",
+                "namePa": "ترنک او جلدک",
+                "latitude": "31.905151",
+                "longitude": "66.516030"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Sar e pul",
+        "nameFa": "سر پل",
+        "namePa": "سر پل",
+        "latitude": "35.714008",
+        "longitude": "65.654338",
+        "districts": [
+            {
+                "id": 116,
+                "name": "Balkhab",
+                "nameFa": "بلخاب",
+                "namePa": "بلخاب",
+                "latitude": "35.484525",
+                "longitude": "66.583430"
+            },
+            {
+                "id": 117,
+                "name": "Gosfandi",
+                "nameFa": "گوسفندی",
+                "namePa": "گوسفندی",
+                "latitude": "35.915106",
+                "longitude": "66.577708"
+            },
+            {
+                "id": 118,
+                "name": "Kohistanat",
+                "nameFa": "کوهستانات",
+                "namePa": "کوهستانات",
+                "latitude": "35.406159",
+                "longitude": "65.963338"
+            },
+            {
+                "id": 119,
+                "name": "Sangcharak",
+                "nameFa": "سنگچارک",
+                "namePa": "سنگچارک",
+                "latitude": "35.961749",
+                "longitude": "66.369244"
+            },
+            {
+                "id": 120,
+                "name": "Sar-e Pul",
+                "nameFa": "سرپل",
+                "namePa": "سرپل",
+                "latitude": "36.290564",
+                "longitude": "66.014190"
+            },
+            {
+                "id": 121,
+                "name": "Sayyad",
+                "nameFa": "سیاد",
+                "namePa": "سیاد",
+                "latitude": "36.072842",
+                "longitude": "65.643409"
+            },
+            {
+                "id": 122,
+                "name": "Sozma Qala",
+                "nameFa": "سوزمان قلعه",
+                "namePa": "سوزمان قلعه",
+                "latitude": "36.042881",
+                "longitude": "66.207130"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Samangan",
+        "nameFa": "سمنگان",
+        "namePa": "سمنگان",
+        "latitude": "35.991111",
+        "longitude": "67.164788",
+        "districts": [
+            {
+                "id": 109,
+                "name": "Aybak",
+                "nameFa": "ایبک",
+                "namePa": "ایبک",
+                "latitude": "36.235103",
+                "longitude": "68.237777"
+            },
+            {
+                "id": 110,
+                "name": "Dara-I-Sufi Balla",
+                "nameFa": "دره صوف بالا",
+                "namePa": "دره صوف بالا",
+                "latitude": "35.607098",
+                "longitude": "67.254314"
+            },
+            {
+                "id": 111,
+                "name": "Dara-I-Sufi Payan",
+                "nameFa": "دره صوف پایان",
+                "namePa": "دره صوف پایان",
+                "latitude": "35.948532",
+                "longitude": "67.297894"
+            },
+            {
+                "id": 112,
+                "name": "Feroz Nakhchir",
+                "nameFa": "فیروز نخچیر",
+                "namePa": "فیروز نخچیر",
+                "latitude": "36.468878",
+                "longitude": "67.554239"
+            },
+            {
+                "id": 113,
+                "name": "Hazrati Sultan",
+                "nameFa": "حضرت سلطان",
+                "namePa": "حضرت سلطان",
+                "latitude": "36.336484",
+                "longitude": "67.867911"
+            },
+            {
+                "id": 114,
+                "name": "Khuram Wa Sarbagh",
+                "nameFa": "خرم و سرباغ",
+                "namePa": "خرم و سرباغ",
+                "latitude": "35.946376",
+                "longitude": "68.057426"
+            },
+            {
+                "id": 115,
+                "name": "Ruyi Du Ab",
+                "nameFa": "روی دو آب",
+                "namePa": "روی دو آب",
+                "latitude": "35.611123",
+                "longitude": "67.768010"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Ghazni",
+        "nameFa": "غزنی",
+        "namePa": "غزنی",
+        "latitude": "33.548403",
+        "longitude": "68.403232",
+        "districts": [
+            {
+                "id": 287,
+                "name": "Ab Band",
+                "nameFa": "آب بند",
+                "namePa": "آب بند",
+                "latitude": "32.893679",
+                "longitude": "68.071408"
+            },
+            {
+                "id": 288,
+                "name": "Ajristan",
+                "nameFa": "اجرستان",
+                "namePa": "اجرستان",
+                "latitude": "33.520052",
+                "longitude": "67.096810"
+            },
+            {
+                "id": 289,
+                "name": "Andar",
+                "nameFa": "اندر",
+                "namePa": "اندر",
+                "latitude": "33.296152",
+                "longitude": "68.452393"
+            },
+            {
+                "id": 290,
+                "name": "Dih Yak",
+                "nameFa": "ده یک",
+                "namePa": "ده یک",
+                "latitude": "33.483589",
+                "longitude": "68.702913"
+            },
+            {
+                "id": 291,
+                "name": "Gelan",
+                "nameFa": "گیلان",
+                "namePa": "گیلان",
+                "latitude": "32.693350",
+                "longitude": "67.670183"
+            },
+            {
+                "id": 292,
+                "name": "Ghazni City",
+                "nameFa": "غزنی",
+                "namePa": "غزنی",
+                "latitude": "33.541807",
+                "longitude": "68.441991"
+            },
+            {
+                "id": 293,
+                "name": "Giro",
+                "nameFa": "گیرو",
+                "namePa": "گیرو",
+                "latitude": "33.064457",
+                "longitude": "68.373547"
+            },
+            {
+                "id": 294,
+                "name": "Jeghatoo",
+                "nameFa": "جغتو",
+                "namePa": "جغتو",
+                "latitude": "33.557445",
+                "longitude": "68.126387"
+            },
+            {
+                "id": 295,
+                "name": "Jaghuri",
+                "nameFa": "جاغوری",
+                "namePa": "جاغوری",
+                "latitude": "33.090560",
+                "longitude": "67.505361"
+            },
+            {
+                "id": 296,
+                "name": "Khugiani",
+                "nameFa": "خوگیانی",
+                "namePa": "خوگیانی",
+                "latitude": "34.176845",
+                "longitude": "70.066329"
+            },
+            {
+                "id": 297,
+                "name": "Khwaja Umari",
+                "nameFa": "خواجه عمری",
+                "namePa": "خواجه عمری",
+                "latitude": "33.673222",
+                "longitude": "68.414670"
+            },
+            {
+                "id": 298,
+                "name": "Malistan",
+                "nameFa": "مالستان",
+                "namePa": "مالستان",
+                "latitude": "33.279368",
+                "longitude": "67.240794"
+            },
+            {
+                "id": 299,
+                "name": "Muqur",
+                "nameFa": "مقر",
+                "namePa": "مقر",
+                "latitude": "32.925360",
+                "longitude": "67.796249"
+            },
+            {
+                "id": 300,
+                "name": "Nawa",
+                "nameFa": "ناوه",
+                "namePa": "ناوه",
+                "latitude": "32.306336",
+                "longitude": "67.926740"
+            },
+            {
+                "id": 301,
+                "name": "Nawur",
+                "nameFa": "ناور",
+                "namePa": "ناور",
+                "latitude": "33.799362",
+                "longitude": "67.787358"
+            },
+            {
+                "id": 302,
+                "name": "Qarabagh",
+                "nameFa": "قره باغ",
+                "namePa": "قره باغ",
+                "latitude": "33.221892",
+                "longitude": "67.999784"
+            },
+            {
+                "id": 303,
+                "name": "Rashidan",
+                "nameFa": "راشیدان",
+                "namePa": "راشیدان",
+                "latitude": "33.705739",
+                "longitude": "68.192805"
+            },
+            {
+                "id": 304,
+                "name": "Waghaz",
+                "nameFa": "واغاز",
+                "namePa": "واغاز",
+                "latitude": "33.420537",
+                "longitude": "68.226157"
+            },
+            {
+                "id": 305,
+                "name": "Zana Khan",
+                "nameFa": "زنا خان",
+                "namePa": "زنا خان",
+                "latitude": "33.678994",
+                "longitude": "68.648645"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Ghor",
+        "nameFa": "غور",
+        "namePa": "غور",
+        "latitude": "34.199971",
+        "longitude": "63.846319",
+        "districts": [
+            {
+                "id": 261,
+                "name": "Chaghcharan",
+                "nameFa": "چغچران",
+                "namePa": "چغچران",
+                "latitude": "34.524334",
+                "longitude": "65.238265"
+            },
+            {
+                "id": 262,
+                "name": "Charsada",
+                "nameFa": "چارسده",
+                "namePa": "چارسده",
+                "latitude": "35.115234",
+                "longitude": "65.017518"
+            },
+            {
+                "id": 263,
+                "name": "Dawlat Yar",
+                "nameFa": "دولت یار",
+                "namePa": "دولت یار",
+                "latitude": "34.622616",
+                "longitude": "65.789997"
+            },
+            {
+                "id": 264,
+                "name": "Du Layna",
+                "nameFa": "دولینه",
+                "namePa": "دولینه",
+                "latitude": "34.072791",
+                "longitude": "64.861074"
+            },
+            {
+                "id": 265,
+                "name": "Lal Wa Sarjangal",
+                "nameFa": "لعل و سر جنگل",
+                "namePa": "لعل و سر جنگل",
+                "latitude": "34.567173",
+                "longitude": "66.208738"
+            },
+            {
+                "id": 266,
+                "name": "Pasaband",
+                "nameFa": "پسابند",
+                "namePa": "پسابند",
+                "latitude": "33.687137",
+                "longitude": "65.132795"
+            },
+            {
+                "id": 267,
+                "name": "Saghar",
+                "nameFa": "ساغر",
+                "namePa": "ساغر",
+                "latitude": "33.663899",
+                "longitude": "63.743686"
+            },
+            {
+                "id": 268,
+                "name": "Shahrak",
+                "nameFa": "شهرک",
+                "namePa": "شهرک",
+                "latitude": "34.225392",
+                "longitude": "64.289289"
+            },
+            {
+                "id": 269,
+                "name": "Taywara",
+                "nameFa": "تایواره",
+                "namePa": "تایواره",
+                "latitude": "33.514124",
+                "longitude": "64.401050"
+            },
+            {
+                "id": 270,
+                "name": "Tulak",
+                "nameFa": "تولک",
+                "namePa": "تولک",
+                "latitude": "34.003325",
+                "longitude": "63.675799"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Faryab",
+        "nameFa": "فاریاب",
+        "namePa": "فاریاب",
+        "latitude": "36.201454",
+        "longitude": "63.737300",
+        "districts": [
+            {
+                "id": 84,
+                "name": "Almar",
+                "nameFa": "المار",
+                "namePa": "المار",
+                "latitude": "35.810810",
+                "longitude": "64.383691"
+            },
+            {
+                "id": 85,
+                "name": "Andkhoy",
+                "nameFa": "اندخوی",
+                "namePa": "اندخوی",
+                "latitude": "36.840891",
+                "longitude": "65.290103"
+            },
+            {
+                "id": 86,
+                "name": "Bilchiragh",
+                "nameFa": "بیلچراغ",
+                "namePa": "بیلچراغ",
+                "latitude": "35.876337",
+                "longitude": "65.398609"
+            },
+            {
+                "id": 87,
+                "name": "Dawlat Abad",
+                "nameFa": "دولت اباد",
+                "namePa": "دولت اباد",
+                "latitude": "36.522791",
+                "longitude": "65.061929"
+            },
+            {
+                "id": 88,
+                "name": "Gurziwan",
+                "nameFa": "ګورزیوان",
+                "namePa": "ګورزیوان",
+                "latitude": "35.621253",
+                "longitude": "65.320886"
+            },
+            {
+                "id": 89,
+                "name": "Khani Chahar Bagh",
+                "nameFa": "خان چارباغ",
+                "namePa": "خان چارباغ",
+                "latitude": "37.135259",
+                "longitude": "65.238824"
+            },
+            {
+                "id": 90,
+                "name": "Khwaja Sabz Posh",
+                "nameFa": "خواجه سبز پوش",
+                "namePa": "خواجه سبز پوش",
+                "latitude": "36.046785",
+                "longitude": "64.973365"
+            },
+            {
+                "id": 91,
+                "name": "Kohistan",
+                "nameFa": "کوهستان",
+                "namePa": "کوهستان",
+                "latitude": "35.349423",
+                "longitude": "64.956595"
+            },
+            {
+                "id": 92,
+                "name": "Maymana",
+                "nameFa": "میمنه",
+                "namePa": "میمنه",
+                "latitude": "35.901683",
+                "longitude": "64.758825"
+            },
+            {
+                "id": 93,
+                "name": "Pashtun Kot",
+                "nameFa": "‎پشتون کوت",
+                "namePa": "‎پشتون کوت",
+                "latitude": "35.838939",
+                "longitude": "64.782672"
+            },
+            {
+                "id": 94,
+                "name": "Qaramqol",
+                "nameFa": "قرمقل",
+                "namePa": "قرمقل",
+                "latitude": "36.779611",
+                "longitude": "64.974495"
+            },
+            {
+                "id": 95,
+                "name": "Qaysar",
+                "nameFa": "قیصار",
+                "namePa": "قیصار",
+                "latitude": "35.659880",
+                "longitude": "64.199613"
+            },
+            {
+                "id": 96,
+                "name": "Qurghan",
+                "nameFa": "قرغان",
+                "namePa": "قرغان",
+                "latitude": "37.030482",
+                "longitude": "64.979908"
+            },
+            {
+                "id": 97,
+                "name": "Shirin Tagab",
+                "nameFa": "شیرین تگاب",
+                "namePa": "شیرین تگاب",
+                "latitude": "36.248160",
+                "longitude": "64.845946"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Farah",
+        "nameFa": "فراه",
+        "namePa": "فراه",
+        "latitude": "32.483893",
+        "longitude": "61.545652",
+        "districts": [
+            {
+                "id": 250,
+                "name": "Anar Dara",
+                "nameFa": "انار دره",
+                "namePa": "انار دره",
+                "latitude": "32.708645",
+                "longitude": "61.606863"
+            },
+            {
+                "id": 251,
+                "name": "Bakwa",
+                "nameFa": "بکواه",
+                "namePa": "بکواه",
+                "latitude": "32.224930",
+                "longitude": "62.864123"
+            },
+            {
+                "id": 252,
+                "name": "Bala Buluk",
+                "nameFa": "بالا بلوک",
+                "namePa": "بالا بلوک",
+                "latitude": "32.737799",
+                "longitude": "62.700830"
+            },
+            {
+                "id": 253,
+                "name": "Farah",
+                "nameFa": "فراه",
+                "namePa": "فراه",
+                "latitude": "32.234080",
+                "longitude": "62.222932"
+            },
+            {
+                "id": 254,
+                "name": "Gulistan",
+                "nameFa": "گلستان",
+                "namePa": "گلستان",
+                "latitude": "32.605984",
+                "longitude": "63.587017"
+            },
+            {
+                "id": 255,
+                "name": "Khaki Safed",
+                "nameFa": "خاک سفید",
+                "namePa": "خاک سفید",
+                "latitude": "32.749551",
+                "longitude": "62.103717"
+            },
+            {
+                "id": 256,
+                "name": "Lash wa Juwayn",
+                "nameFa": "دلاش و جواین",
+                "namePa": "دلاش و جواین",
+                "latitude": "31.758847",
+                "longitude": "61.322829"
+            },
+            {
+                "id": 257,
+                "name": "Pur Chaman",
+                "nameFa": "پرچمن",
+                "namePa": "پرچمن",
+                "latitude": "33.184445",
+                "longitude": "63.723167"
+            },
+            {
+                "id": 258,
+                "name": "Pusht Rod",
+                "nameFa": "پشت رود",
+                "namePa": "پشت رود",
+                "latitude": "32.514573",
+                "longitude": "62.125107"
+            },
+            {
+                "id": 259,
+                "name": "Qala i Kah",
+                "nameFa": "قلعه کاه",
+                "namePa": "قلعه کاه",
+                "latitude": "32.497441",
+                "longitude": "61.249601"
+            },
+            {
+                "id": 260,
+                "name": "Shib Koh",
+                "nameFa": "شیب کوه",
+                "namePa": "شیب کوه",
+                "latitude": "32.139109",
+                "longitude": "61.359457"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Kundoz",
+        "nameFa": "کندز",
+        "namePa": "کندز",
+        "latitude": "36.821050",
+        "longitude": "68.122626",
+        "districts": [
+            {
+                "id": 45,
+                "name": "Ali Abad",
+                "nameFa": "علي آباد",
+                "namePa": "علي آباد",
+                "latitude": "36.548558",
+                "longitude": "68.837055"
+            },
+            {
+                "id": 46,
+                "name": "Archi",
+                "nameFa": "ارچي",
+                "namePa": "ارچي",
+                "latitude": "36.954440",
+                "longitude": "69.148113"
+            },
+            {
+                "id": 47,
+                "name": "Chahar Dara",
+                "nameFa": "چار دره",
+                "namePa": "چار دره",
+                "latitude": "36.662568",
+                "longitude": "68.575272"
+            },
+            {
+                "id": 48,
+                "name": "Imam Sahib",
+                "nameFa": "امام صیب",
+                "namePa": "امام صیب",
+                "latitude": "37.074314",
+                "longitude": "68.851102"
+            },
+            {
+                "id": 49,
+                "name": "Khan Abad",
+                "nameFa": "خان آباد",
+                "namePa": "خان آباد",
+                "latitude": "36.645961",
+                "longitude": "69.105452"
+            },
+            {
+                "id": 50,
+                "name": "Kunduz",
+                "nameFa": "کندوز",
+                "namePa": "کندوز",
+                "latitude": "36.792264",
+                "longitude": "68.860460"
+            },
+            {
+                "id": 51,
+                "name": "Qalay-I-Zal",
+                "nameFa": "قلعه ذال",
+                "namePa": "قلعه ذال",
+                "latitude": "36.869394",
+                "longitude": "68.346936"
+            },
+            {
+                "id": 415,
+                "name": "Center of Kunduz",
+                "nameFa": "مرکز کندز",
+                "namePa": "مرکز کندز",
+                "latitude": "36.711033",
+                "longitude": "68.812993"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Kandahar",
+        "nameFa": "قندهار",
+        "namePa": "قندهار",
+        "latitude": "31.058315",
+        "longitude": "65.017591",
+        "districts": [
+            {
+                "id": 371,
+                "name": "Arghandab",
+                "nameFa": "ارغنداب",
+                "namePa": "ارغنداب",
+                "latitude": "31.723683",
+                "longitude": "65.628921"
+            },
+            {
+                "id": 372,
+                "name": "Arghistan",
+                "nameFa": "ارغستان",
+                "namePa": "ارغستان",
+                "latitude": "31.546578",
+                "longitude": "66.647432"
+            },
+            {
+                "id": 373,
+                "name": "Daman",
+                "nameFa": "دامان",
+                "namePa": "دامان",
+                "latitude": "31.156011",
+                "longitude": "65.741152"
+            },
+            {
+                "id": 374,
+                "name": "Ghorak",
+                "nameFa": "غورک",
+                "namePa": "غورک",
+                "latitude": "32.090010",
+                "longitude": "65.197942"
+            },
+            {
+                "id": 375,
+                "name": "Kandahar City ",
+                "nameFa": "کندهار",
+                "namePa": "کندهار",
+                "latitude": "31.518012",
+                "longitude": "65.697431"
+            },
+            {
+                "id": 376,
+                "name": "Khakrez",
+                "nameFa": "خاکریز",
+                "namePa": "خاکریز",
+                "latitude": "32.022811",
+                "longitude": "65.453243"
+            },
+            {
+                "id": 377,
+                "name": "Maruf",
+                "nameFa": "معروف",
+                "namePa": "معروف",
+                "latitude": "31.489195",
+                "longitude": "67.274402"
+            },
+            {
+                "id": 378,
+                "name": "Maywand",
+                "nameFa": "میوند",
+                "namePa": "میوند",
+                "latitude": "31.566970",
+                "longitude": "64.934990"
+            },
+            {
+                "id": 379,
+                "name": "Miyan Nasheen",
+                "nameFa": "میانشین",
+                "namePa": "میانشین",
+                "latitude": "32.398281",
+                "longitude": "66.324313"
+            },
+            {
+                "id": 380,
+                "name": "Naish",
+                "nameFa": "نیش",
+                "namePa": "نیش",
+                "latitude": "32.375532",
+                "longitude": "65.707707"
+            },
+            {
+                "id": 381,
+                "name": "Panjwaye",
+                "nameFa": "پنجوایی",
+                "namePa": "پنجوایی",
+                "latitude": "31.111277",
+                "longitude": "65.198619"
+            },
+            {
+                "id": 382,
+                "name": "Reg",
+                "nameFa": "ریگ",
+                "namePa": "ریگ",
+                "latitude": "30.162088",
+                "longitude": "65.221069"
+            },
+            {
+                "id": 383,
+                "name": "Shah Wali Kot",
+                "nameFa": "شاه ولی کوت",
+                "namePa": "شاه ولی کوت",
+                "latitude": "32.139936",
+                "longitude": "66.033262"
+            },
+            {
+                "id": 384,
+                "name": "Shorabak",
+                "nameFa": "شوراوک",
+                "namePa": "شوراوک",
+                "latitude": "30.196942",
+                "longitude": "66.033526"
+            },
+            {
+                "id": 385,
+                "name": "Spin Boldak",
+                "nameFa": "سپین بولدک",
+                "namePa": "سپین بولدک",
+                "latitude": "30.952222",
+                "longitude": "66.135407"
+            },
+            {
+                "id": 386,
+                "name": "Zharai",
+                "nameFa": "ژیری",
+                "namePa": "ژیری",
+                "latitude": "31.659400",
+                "longitude": "65.383710"
+            },
+            {
+                "id": 473,
+                "name": "Dand",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 499,
+                "name": "District 6",
+                "nameFa": "ناحیه ششم",
+                "namePa": "ناحیه ششم",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Laghman",
+        "nameFa": "لغمان",
+        "namePa": "لغمان",
+        "latitude": "34.809440",
+        "longitude": "69.937636",
+        "districts": [
+            {
+                "id": 193,
+                "name": "Alingar",
+                "nameFa": "الینگار",
+                "namePa": "الینگار",
+                "latitude": "34.833038",
+                "longitude": "70.425705"
+            },
+            {
+                "id": 194,
+                "name": "Alishing",
+                "nameFa": "الیشنگ",
+                "namePa": "الیشنگ",
+                "latitude": "34.866429",
+                "longitude": "70.072183"
+            },
+            {
+                "id": 195,
+                "name": "Dawlat Shah",
+                "nameFa": "دولت شاه",
+                "namePa": "دولت شاه",
+                "latitude": "35.035910",
+                "longitude": "70.009790"
+            },
+            {
+                "id": 196,
+                "name": "Mihtarlam",
+                "nameFa": "مهترلام",
+                "namePa": "مهترلام",
+                "latitude": "34.666954",
+                "longitude": "70.071718"
+            },
+            {
+                "id": 197,
+                "name": "Qarghayi",
+                "nameFa": "قرغه یی",
+                "namePa": "قرغه یی",
+                "latitude": "34.543504",
+                "longitude": "70.214523"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Logar",
+        "nameFa": "لوگر",
+        "namePa": "لوگر",
+        "latitude": "33.984437",
+        "longitude": "69.021811",
+        "districts": [
+            {
+                "id": 145,
+                "name": "Azra",
+                "nameFa": "ازره",
+                "namePa": "ازره",
+                "latitude": "34.044535",
+                "longitude": "69.661232"
+            },
+            {
+                "id": 146,
+                "name": "Baraki Barak",
+                "nameFa": "برکی برک",
+                "namePa": "برکی برک",
+                "latitude": "33.901933",
+                "longitude": "68.892873"
+            },
+            {
+                "id": 147,
+                "name": "Charkh",
+                "nameFa": "چرخ",
+                "namePa": "چرخ",
+                "latitude": "33.822766",
+                "longitude": "68.903957"
+            },
+            {
+                "id": 148,
+                "name": "Kharwar",
+                "nameFa": "خروار",
+                "namePa": "خروار",
+                "latitude": "33.702837",
+                "longitude": "68.890243"
+            },
+            {
+                "id": 149,
+                "name": "Khoshi",
+                "nameFa": "خوشی",
+                "namePa": "خوشی",
+                "latitude": "33.992404",
+                "longitude": "69.292073"
+            },
+            {
+                "id": 150,
+                "name": "Mohammad Agha",
+                "nameFa": "محمدآغه",
+                "namePa": "محمدآغه",
+                "latitude": "34.201218",
+                "longitude": "69.194122"
+            },
+            {
+                "id": 151,
+                "name": "Pul-i-Alam",
+                "nameFa": "پل علم",
+                "namePa": "پل علم",
+                "latitude": "33.991566",
+                "longitude": "69.046969"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Nangarhar",
+        "nameFa": "ننگرهار",
+        "namePa": "ننگرهار",
+        "latitude": "34.375381",
+        "longitude": "69.766518",
+        "districts": [
+            {
+                "id": 198,
+                "name": "Achin",
+                "nameFa": "اچین",
+                "namePa": "اچین",
+                "latitude": "34.056653",
+                "longitude": "70.650371"
+            },
+            {
+                "id": 199,
+                "name": "Bati Kot",
+                "nameFa": "بتی کوت",
+                "namePa": "بتی کوت",
+                "latitude": "34.304829",
+                "longitude": "70.721243"
+            },
+            {
+                "id": 200,
+                "name": "Behsud",
+                "nameFa": "بیهسود",
+                "namePa": "بیهسود",
+                "latitude": "34.423905",
+                "longitude": "70.520494"
+            },
+            {
+                "id": 201,
+                "name": "Chaparhar",
+                "nameFa": "چپر هار",
+                "namePa": "چپر هار",
+                "latitude": "34.298027",
+                "longitude": "70.367422"
+            },
+            {
+                "id": 202,
+                "name": "Dara-e-Noor",
+                "nameFa": "دره نور",
+                "namePa": "دره نور",
+                "latitude": "34.717402",
+                "longitude": "70.599527"
+            },
+            {
+                "id": 203,
+                "name": "Dih Bala",
+                "nameFa": "ده بالا",
+                "namePa": "ده بالا",
+                "latitude": "34.092342",
+                "longitude": "70.449203"
+            },
+            {
+                "id": 204,
+                "name": "Dur Baba",
+                "nameFa": "دور بابا",
+                "namePa": "دور بابا",
+                "latitude": "34.098842",
+                "longitude": "70.943709"
+            },
+            {
+                "id": 205,
+                "name": "Goshta",
+                "nameFa": "گوشته",
+                "namePa": "گوشته",
+                "latitude": "34.455504",
+                "longitude": "70.877188"
+            },
+            {
+                "id": 206,
+                "name": "Hisarak",
+                "nameFa": "حصارک",
+                "namePa": "حصارک",
+                "latitude": "34.246170",
+                "longitude": "69.743543"
+            },
+            {
+                "id": 207,
+                "name": "Jalalabad ",
+                "nameFa": "جلال آباد",
+                "namePa": "جلال آباد",
+                "latitude": "34.419822",
+                "longitude": "70.436525"
+            },
+            {
+                "id": 209,
+                "name": "Khogyani ",
+                "nameFa": "خوگیانی",
+                "namePa": "خوگیانی",
+                "latitude": "34.446776",
+                "longitude": "70.681280"
+            },
+            {
+                "id": 220,
+                "name": "Lal Pur",
+                "nameFa": "لال پور",
+                "namePa": "لال پور",
+                "latitude": "34.322068",
+                "longitude": "71.017770"
+            },
+            {
+                "id": 221,
+                "name": "Muhmand Dara",
+                "nameFa": "موهمند دره",
+                "namePa": "موهمند دره",
+                "latitude": "34.225081",
+                "longitude": "70.971158"
+            },
+            {
+                "id": 222,
+                "name": "Nazyan",
+                "nameFa": "نازیان",
+                "namePa": "نازیان",
+                "latitude": "34.055839",
+                "longitude": "70.799091"
+            },
+            {
+                "id": 223,
+                "name": "Pachir Wa Agam",
+                "nameFa": "پچیر وآگام",
+                "namePa": "پچیر وآگام",
+                "latitude": "34.077161",
+                "longitude": "70.302235"
+            },
+            {
+                "id": 224,
+                "name": "Rodat",
+                "nameFa": "رودات",
+                "namePa": "رودات",
+                "latitude": "34.256662",
+                "longitude": "70.550781"
+            },
+            {
+                "id": 225,
+                "name": "Sherzad",
+                "nameFa": "شیرزاد",
+                "namePa": "شیرزاد",
+                "latitude": "34.181064",
+                "longitude": "69.928431"
+            },
+            {
+                "id": 226,
+                "name": "Shinwar",
+                "nameFa": "شینوار",
+                "namePa": "شینوار",
+                "latitude": "34.205904",
+                "longitude": "70.816901"
+            },
+            {
+                "id": 227,
+                "name": "Surkh Rod",
+                "nameFa": "سرخ رود",
+                "namePa": "سرخ رود",
+                "latitude": "34.420676",
+                "longitude": "70.317617"
+            },
+            {
+                "id": 411,
+                "name": "Kuz Kunar (Khewa)",
+                "nameFa": "خیوه",
+                "namePa": "خیوه",
+                "latitude": "34.579197",
+                "longitude": "70.569434"
+            },
+            {
+                "id": 414,
+                "name": "Kama",
+                "nameFa": "کما",
+                "namePa": "کما",
+                "latitude": "34.446776",
+                "longitude": "70.681280"
+            },
+            {
+                "id": 441,
+                "name": "District 3",
+                "nameFa": "ولسوالی 3",
+                "namePa": "ولسوالی 3",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 442,
+                "name": "District 4",
+                "nameFa": "ولسوالی 4",
+                "namePa": "ولسوالی 4",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 486,
+                "name": "Ghani Khail",
+                "nameFa": "غنی خیل",
+                "namePa": "غنی خیل",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 487,
+                "name": "District 1",
+                "nameFa": "ناحیه اول",
+                "namePa": "ناحیه اول",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 488,
+                "name": "District 2",
+                "nameFa": "ناحیه دو",
+                "namePa": "ناحیه دو",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 489,
+                "name": "District 7",
+                "nameFa": "ناحیه هفت",
+                "namePa": "ناحیه هفت",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 490,
+                "name": "District 8",
+                "nameFa": "ناحیه هشتم",
+                "namePa": "ناحیه هشتم",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 494,
+                "name": "Khewa",
+                "nameFa": "خیوه",
+                "namePa": "خیوه",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Nuristan",
+        "nameFa": "نورستان",
+        "namePa": "نورستان",
+        "latitude": "35.477100",
+        "longitude": "70.205042",
+        "districts": [
+            {
+                "id": 228,
+                "name": "Bargi Matal",
+                "nameFa": "برگیمتال",
+                "namePa": "برگیمتال",
+                "latitude": "35.756716",
+                "longitude": "71.229678"
+            },
+            {
+                "id": 229,
+                "name": "Du Ab",
+                "nameFa": "دو آب",
+                "namePa": "دو آب",
+                "latitude": "35.216128",
+                "longitude": "70.352880"
+            },
+            {
+                "id": 230,
+                "name": "Kamdesh",
+                "nameFa": "کامدیش",
+                "namePa": "کامدیش",
+                "latitude": "35.470783",
+                "longitude": "71.312139"
+            },
+            {
+                "id": 231,
+                "name": "Mandol",
+                "nameFa": "مندول",
+                "namePa": "مندول",
+                "latitude": "35.385321",
+                "longitude": "70.208195"
+            },
+            {
+                "id": 232,
+                "name": "Nurgaram",
+                "nameFa": "نورگرام",
+                "namePa": "نورگرام",
+                "latitude": "35.073995",
+                "longitude": "70.469496"
+            },
+            {
+                "id": 233,
+                "name": "Paroon",
+                "nameFa": "پارون",
+                "namePa": "پارون",
+                "latitude": "35.421264",
+                "longitude": "70.787779"
+            },
+            {
+                "id": 234,
+                "name": "Wama",
+                "nameFa": "واما",
+                "namePa": "واما",
+                "latitude": "35.107368",
+                "longitude": "70.719288"
+            },
+            {
+                "id": 235,
+                "name": "Waygal",
+                "nameFa": "وایگل",
+                "namePa": "وایگل",
+                "latitude": "35.181413",
+                "longitude": "70.997138"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Nimroz",
+        "nameFa": "نیمروز",
+        "namePa": "نیمروز",
+        "latitude": "30.821222",
+        "longitude": "61.111030",
+        "districts": [
+            {
+                "id": 387,
+                "name": "Chahar Burjak",
+                "nameFa": "چهاربورجه",
+                "namePa": "چهاربورجه",
+                "latitude": "30.113318",
+                "longitude": "62.073903"
+            },
+            {
+                "id": 388,
+                "name": "Chakhansur",
+                "nameFa": "چخانسور",
+                "namePa": "چخانسور",
+                "latitude": "31.375184",
+                "longitude": "62.486654"
+            },
+            {
+                "id": 389,
+                "name": "Kang",
+                "nameFa": "کنگ",
+                "namePa": "کنگ",
+                "latitude": "31.335316",
+                "longitude": "61.782131"
+            },
+            {
+                "id": 390,
+                "name": "Khash Rod",
+                "nameFa": "خاش رود",
+                "namePa": "خاش رود",
+                "latitude": "31.725304",
+                "longitude": "62.939043"
+            },
+            {
+                "id": 391,
+                "name": "Zaranj",
+                "nameFa": "زرنچ",
+                "namePa": "زرنچ",
+                "latitude": "30.904818",
+                "longitude": "62.045473"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Herat",
+        "nameFa": "هرات",
+        "namePa": "هرات",
+        "latitude": "34.234033",
+        "longitude": "61.380641",
+        "districts": [
+            {
+                "id": 271,
+                "name": "Adraskan",
+                "nameFa": "ادرسکن",
+                "namePa": "ادرسکن",
+                "latitude": "33.720150",
+                "longitude": "61.816468"
+            },
+            {
+                "id": 272,
+                "name": "Chisht e Sharif",
+                "nameFa": "چشت شریف",
+                "namePa": "چشت شریف",
+                "latitude": "34.372017",
+                "longitude": "63.768442"
+            },
+            {
+                "id": 273,
+                "name": "Farsi",
+                "nameFa": "فارسی",
+                "namePa": "فارسی",
+                "latitude": "33.854231",
+                "longitude": "63.284100"
+            },
+            {
+                "id": 274,
+                "name": "Ghoryan",
+                "nameFa": "غوریان",
+                "namePa": "غوریان",
+                "latitude": "34.133680",
+                "longitude": "61.053751"
+            },
+            {
+                "id": 275,
+                "name": "Gulran",
+                "nameFa": "گلران",
+                "namePa": "گلران",
+                "latitude": "35.111466",
+                "longitude": "61.695729"
+            },
+            {
+                "id": 276,
+                "name": "Guzara",
+                "nameFa": "گزره",
+                "namePa": "گزره",
+                "latitude": "34.040952",
+                "longitude": "62.013878"
+            },
+            {
+                "id": 277,
+                "name": "Herat  ",
+                "nameFa": "هرات",
+                "namePa": "هرات",
+                "latitude": "34.395992",
+                "longitude": "62.231053"
+            },
+            {
+                "id": 278,
+                "name": "Enjil  ",
+                "nameFa": "انجیل",
+                "namePa": "انجیل",
+                "latitude": "34.492302",
+                "longitude": "61.905868"
+            },
+            {
+                "id": 279,
+                "name": "Karukh",
+                "nameFa": "کارخ",
+                "namePa": "کارخ",
+                "latitude": "34.483692",
+                "longitude": "62.656587"
+            },
+            {
+                "id": 280,
+                "name": "Kohsan",
+                "nameFa": "کوهسان",
+                "namePa": "کوهسان",
+                "latitude": "34.771748",
+                "longitude": "61.249098"
+            },
+            {
+                "id": 281,
+                "name": "Kushk",
+                "nameFa": "کشک",
+                "namePa": "کشک",
+                "latitude": "35.013721",
+                "longitude": "62.201428"
+            },
+            {
+                "id": 282,
+                "name": "Kushki Kuhna",
+                "nameFa": "کشک کهنه",
+                "namePa": "کشک کهنه",
+                "latitude": "34.964375",
+                "longitude": "62.495610"
+            },
+            {
+                "id": 283,
+                "name": "Obe",
+                "nameFa": "اوبی",
+                "namePa": "اوبی",
+                "latitude": "34.380977",
+                "longitude": "63.292026"
+            },
+            {
+                "id": 284,
+                "name": "Pashtun Zarghun",
+                "nameFa": "پشتون زرغون",
+                "namePa": "پشتون زرغون",
+                "latitude": "34.132020",
+                "longitude": "62.728806"
+            },
+            {
+                "id": 285,
+                "name": "Shindand",
+                "nameFa": "شین ډنډ",
+                "namePa": "شین ډنډ",
+                "latitude": "33.266402",
+                "longitude": "61.777242"
+            },
+            {
+                "id": 286,
+                "name": "Zinda Jan",
+                "nameFa": "زنده جان",
+                "namePa": "زنده جان",
+                "latitude": "34.264938",
+                "longitude": "61.817246"
+            },
+            {
+                "id": 421,
+                "name": "Gozara",
+                "nameFa": "گذاره",
+                "namePa": "گذاره",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 422,
+                "name": "2nd City District",
+                "nameFa": "ولایت ولسوالی-2",
+                "namePa": "ولایت ولسوالی-2",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 423,
+                "name": "10th City District",
+                "nameFa": "ولایت ولسوالی -10",
+                "namePa": "ولایت ولسوالی -10",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 425,
+                "name": "6th City District",
+                "nameFa": "ولسوالی-6",
+                "namePa": "ولسوالی-6",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 426,
+                "name": "4th City District",
+                "nameFa": "ولایت ولسوالی-4",
+                "namePa": "ولایت ولسوالی-4",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 427,
+                "name": "5th City District.",
+                "nameFa": "ولسوالی-5",
+                "namePa": "ولسوالی-5",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 429,
+                "name": "13th City District",
+                "nameFa": "ولایت ولسوالی-13",
+                "namePa": "ولایت ولسوالی-13",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 431,
+                "name": "District 9",
+                "nameFa": "ولسوالی -9",
+                "namePa": "ولسوالی -9",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 432,
+                "name": "8th City District",
+                "nameFa": "ولایت ولسوالی 8",
+                "namePa": "ولایت ولسوالی 8",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 433,
+                "name": "1st District.",
+                "nameFa": "ولایت ولسوالی 1",
+                "namePa": "ولایت ولسوالی 1",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 434,
+                "name": "5th City District",
+                "nameFa": "ولایت ولسوالی 5",
+                "namePa": "ولایت ولسوالی 5",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 435,
+                "name": "9th City District",
+                "nameFa": "ولایت ولسوالی 9",
+                "namePa": "ولایت ولسوالی 9",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 436,
+                "name": "14th City District",
+                "nameFa": "ولایت ولسوالی 14",
+                "namePa": "ولایت ولسوالی 14",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 437,
+                "name": "3rd City District",
+                "nameFa": "ولایت ولسوالی 3",
+                "namePa": "ولایت ولسوالی 3",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 438,
+                "name": "Herat City",
+                "nameFa": "ولایت هرات",
+                "namePa": "ولایت هرات",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 439,
+                "name": "12th City District",
+                "nameFa": "ولایت ولسوالی 12",
+                "namePa": "ولایت ولسوالی 12",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 440,
+                "name": "15th City District",
+                "nameFa": "ولسوالی 15",
+                "namePa": "ولسوالی 15",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 450,
+                "name": "Zone 9",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 451,
+                "name": "1st District ",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 462,
+                "name": "Injil ",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "34.411669",
+                "longitude": "62.207729"
+            },
+            {
+                "id": 484,
+                "name": "Torghundi",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 496,
+                "name": "Darwaza Malik",
+                "nameFa": "دروازه ملک ",
+                "namePa": "دروازه ملک ",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 497,
+                "name": "Darb Iraq",
+                "nameFa": "درب عراق",
+                "namePa": "درب عراق",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 504,
+                "name": "11th City District",
+                "nameFa": "ناحیه یازدهم",
+                "namePa": "ناحیه یازدهم",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 507,
+                "name": "7th CIty District ",
+                "nameFa": "ناحیه ۷",
+                "namePa": "ناحیه ۷",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Helmand",
+        "nameFa": "هلمند",
+        "namePa": "هلمند",
+        "latitude": "31.358364",
+        "longitude": "61.723579",
+        "districts": [
+            {
+                "id": 358,
+                "name": "Baghran",
+                "nameFa": "باغران",
+                "namePa": "باغران",
+                "latitude": "33.151625",
+                "longitude": "65.152843"
+            },
+            {
+                "id": 359,
+                "name": "Dishu",
+                "nameFa": "دیشو",
+                "namePa": "دیشو",
+                "latitude": "29.853347",
+                "longitude": "63.259255"
+            },
+            {
+                "id": 360,
+                "name": "Garmsir",
+                "nameFa": "گرمسیر",
+                "namePa": "گرمسیر",
+                "latitude": "30.435251",
+                "longitude": "64.245131"
+            },
+            {
+                "id": 361,
+                "name": "Gerishk",
+                "nameFa": "گریشک",
+                "namePa": "گریشک",
+                "latitude": "31.824480",
+                "longitude": "64.552445"
+            },
+            {
+                "id": 362,
+                "name": "Kajaki",
+                "nameFa": "کجکی",
+                "namePa": "کجکی",
+                "latitude": "32.566889",
+                "longitude": "64.979969"
+            },
+            {
+                "id": 363,
+                "name": "Khanashin",
+                "nameFa": "خانیشین",
+                "namePa": "خانیشین",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 364,
+                "name": "Lashkargah",
+                "nameFa": "لشکرگاه",
+                "namePa": "لشکرگاه",
+                "latitude": "31.451536",
+                "longitude": "64.522944"
+            },
+            {
+                "id": 365,
+                "name": "Musa Qala",
+                "nameFa": "موسی قلعه",
+                "namePa": "موسی قلعه",
+                "latitude": "32.401422",
+                "longitude": "64.823719"
+            },
+            {
+                "id": 366,
+                "name": "Nad Ali",
+                "nameFa": "نادعلی",
+                "namePa": "نادعلی",
+                "latitude": "31.598961",
+                "longitude": "63.835034"
+            },
+            {
+                "id": 367,
+                "name": "Nawa-I-Barakzayi",
+                "nameFa": "ناوه بارکزای",
+                "namePa": "ناوه بارکزای",
+                "latitude": "31.355971",
+                "longitude": "64.217749"
+            },
+            {
+                "id": 368,
+                "name": "Nawzad",
+                "nameFa": "نوزاد",
+                "namePa": "نوزاد",
+                "latitude": "32.615931",
+                "longitude": "64.486160"
+            },
+            {
+                "id": 369,
+                "name": "Sangin",
+                "nameFa": "سنگین",
+                "namePa": "سنگین",
+                "latitude": "32.030164",
+                "longitude": "64.989244"
+            },
+            {
+                "id": 370,
+                "name": "Washir",
+                "nameFa": "واشیر",
+                "namePa": "واشیر",
+                "latitude": "32.065661",
+                "longitude": "63.938511"
+            },
+            {
+                "id": 491,
+                "name": "Shurabak",
+                "nameFa": "شورآبک",
+                "namePa": "شورآبک",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Wardak",
+        "nameFa": "میدان وردگ",
+        "namePa": "میدان وردگ",
+        "latitude": "34.239298",
+        "longitude": "67.541983",
+        "districts": [
+            {
+                "id": 169,
+                "name": "Chaki Wardak",
+                "nameFa": "چک وردگ",
+                "namePa": "چک وردگ",
+                "latitude": "34.085404",
+                "longitude": "68.516192"
+            },
+            {
+                "id": 170,
+                "name": "Day Mirdad",
+                "nameFa": "دایمیرداد",
+                "namePa": "دایمیرداد",
+                "latitude": "34.202833",
+                "longitude": "68.323237"
+            },
+            {
+                "id": 171,
+                "name": "Hisa-I-Awali Bihsud",
+                "nameFa": "حصۀاول بهسود",
+                "namePa": "حصۀاول بهسود",
+                "latitude": "34.482046",
+                "longitude": "68.174585"
+            },
+            {
+                "id": 172,
+                "name": "Jaghatu",
+                "nameFa": "جغتو",
+                "namePa": "جغتو",
+                "latitude": "33.812408",
+                "longitude": "68.364953"
+            },
+            {
+                "id": 173,
+                "name": "Jalrez",
+                "nameFa": "جلریز",
+                "namePa": "جلریز",
+                "latitude": "34.521442",
+                "longitude": "68.589387"
+            },
+            {
+                "id": 174,
+                "name": "Markazi Bihsud",
+                "nameFa": "مرکز بهسود",
+                "namePa": "مرکز بهسود",
+                "latitude": "34.359493",
+                "longitude": "67.654121"
+            },
+            {
+                "id": 175,
+                "name": "Maydan Shahr",
+                "nameFa": "میدان شهر",
+                "namePa": "میدان شهر",
+                "latitude": "34.464309",
+                "longitude": "68.848882"
+            },
+            {
+                "id": 176,
+                "name": "Nirkh",
+                "nameFa": "نرخ",
+                "namePa": "نرخ",
+                "latitude": "34.326461",
+                "longitude": "68.771485"
+            },
+            {
+                "id": 177,
+                "name": "Saydabad",
+                "nameFa": "سید آباد",
+                "namePa": "سید آباد",
+                "latitude": "33.934723",
+                "longitude": "68.676363"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Parwan",
+        "nameFa": "پروان",
+        "namePa": "پروان",
+        "latitude": "35.005975",
+        "longitude": "68.623514",
+        "districts": [
+            {
+                "id": 159,
+                "name": "Bagram",
+                "nameFa": "بگرام",
+                "namePa": "بگرام",
+                "latitude": "34.905671",
+                "longitude": "69.377716"
+            },
+            {
+                "id": 161,
+                "name": "Ghorband",
+                "nameFa": "غوربند",
+                "namePa": "غوربند",
+                "latitude": "34.987058",
+                "longitude": "68.799341"
+            },
+            {
+                "id": 162,
+                "name": "Jabal Saraj",
+                "nameFa": "جبل سراج",
+                "namePa": "جبل سراج",
+                "latitude": "35.129660",
+                "longitude": "69.202044"
+            },
+            {
+                "id": 163,
+                "name": "Kohi Safi",
+                "nameFa": "کوه صافي",
+                "namePa": "کوه صافي",
+                "latitude": "34.754573",
+                "longitude": "69.468075"
+            },
+            {
+                "id": 164,
+                "name": "Salang",
+                "nameFa": "سالنگ",
+                "namePa": "سالنگ",
+                "latitude": "35.293998",
+                "longitude": "69.163208"
+            },
+            {
+                "id": 165,
+                "name": "Sayed Khel",
+                "nameFa": "سید خیل",
+                "namePa": "سید خیل",
+                "latitude": "35.047240",
+                "longitude": "69.282208"
+            },
+            {
+                "id": 166,
+                "name": "Shekh Ali",
+                "nameFa": "شیخ علی",
+                "namePa": "شیخ علی",
+                "latitude": "34.961071",
+                "longitude": "68.393194"
+            },
+            {
+                "id": 167,
+                "name": "Shinwari",
+                "nameFa": "شینواري",
+                "namePa": "شینواري",
+                "latitude": "35.135028",
+                "longitude": "68.973098"
+            },
+            {
+                "id": 168,
+                "name": "Surkhi Parsa",
+                "nameFa": "سرخ پارسا",
+                "namePa": "سرخ پارسا",
+                "latitude": "34.742986",
+                "longitude": "68.643355"
+            },
+            {
+                "id": 409,
+                "name": "Charikar",
+                "nameFa": "چاریکار",
+                "namePa": "چاریکار",
+                "latitude": "34.955632",
+                "longitude": "69.120882"
+            },
+            {
+                "id": 428,
+                "name": "NA",
+                "nameFa": "موجود نیست",
+                "namePa": "موجود نیست",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 476,
+                "name": "Sia Gird ( Ghorbund)",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 483,
+                "name": "Center Of Parwan",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Panjsher",
+        "nameFa": "پنجشیر",
+        "namePa": "پنجشیر",
+        "latitude": "35.489087",
+        "longitude": "69.492219",
+        "districts": [
+            {
+                "id": 152,
+                "name": "Anaba",
+                "nameFa": "انابه",
+                "namePa": "انابه",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 153,
+                "name": "Bazarak",
+                "nameFa": "بازارک",
+                "namePa": "بازارک",
+                "latitude": "35.383449",
+                "longitude": "69.497632"
+            },
+            {
+                "id": 154,
+                "name": "Darah",
+                "nameFa": "دره",
+                "namePa": "دره",
+                "latitude": "35.233269",
+                "longitude": "69.746063"
+            },
+            {
+                "id": 155,
+                "name": "Khenj",
+                "nameFa": "خنج",
+                "namePa": "خنج",
+                "latitude": "35.596930",
+                "longitude": "68.895664"
+            },
+            {
+                "id": 156,
+                "name": "Paryan",
+                "nameFa": "پریان",
+                "namePa": "پریان",
+                "latitude": "35.678605",
+                "longitude": "70.063764"
+            },
+            {
+                "id": 157,
+                "name": "Rokha",
+                "nameFa": "روخه",
+                "namePa": "روخه",
+                "latitude": "35.245062",
+                "longitude": "69.484266"
+            },
+            {
+                "id": 158,
+                "name": "Shotul",
+                "nameFa": "شوتل",
+                "namePa": "شوتل",
+                "latitude": "35.289161",
+                "longitude": "69.300461"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Paktya",
+        "nameFa": "پکتیا",
+        "namePa": "پکتیا",
+        "latitude": "33.624720",
+        "longitude": "69.108963",
+        "districts": [
+            {
+                "id": 319,
+                "name": "Ahmadabad",
+                "nameFa": "احمد آباد",
+                "namePa": "احمد آباد",
+                "latitude": "33.784922",
+                "longitude": "69.345758"
+            },
+            {
+                "id": 320,
+                "name": "Chamkani",
+                "nameFa": "څمکنی",
+                "namePa": "څمکنی",
+                "latitude": "33.793514",
+                "longitude": "69.791159"
+            },
+            {
+                "id": 321,
+                "name": "Dand Wa Patan",
+                "nameFa": "دند او پتان",
+                "namePa": "دند او پتان",
+                "latitude": "33.809267",
+                "longitude": "69.901955"
+            },
+            {
+                "id": 322,
+                "name": "Gardez",
+                "nameFa": "گردیز",
+                "namePa": "گردیز",
+                "latitude": "33.599864",
+                "longitude": "69.229343"
+            },
+            {
+                "id": 323,
+                "name": "Jaji",
+                "nameFa": "جاجی اریوب",
+                "namePa": "جاجی اریوب",
+                "latitude": "33.954034",
+                "longitude": "69.697367"
+            },
+            {
+                "id": 324,
+                "name": "Jani Khail",
+                "nameFa": "جانی خیل",
+                "namePa": "جانی خیل",
+                "latitude": "33.626690",
+                "longitude": "69.833488"
+            },
+            {
+                "id": 325,
+                "name": "Lazha Ahmad Khel",
+                "nameFa": "لژه احمد خیل",
+                "namePa": "لژه احمد خیل",
+                "latitude": "33.797792",
+                "longitude": "69.605362"
+            },
+            {
+                "id": 326,
+                "name": "Sayed Karam",
+                "nameFa": "سید کرم",
+                "namePa": "سید کرم",
+                "latitude": "33.731336",
+                "longitude": "69.469893"
+            },
+            {
+                "id": 327,
+                "name": "Shwak",
+                "nameFa": "شواک",
+                "namePa": "شواک",
+                "latitude": "33.476481",
+                "longitude": "69.331666"
+            },
+            {
+                "id": 328,
+                "name": "Wuza Zadran",
+                "nameFa": "وزی ځدراڼ",
+                "namePa": "وزی ځدراڼ",
+                "latitude": "33.416216",
+                "longitude": "69.424522"
+            },
+            {
+                "id": 329,
+                "name": "Zurmat",
+                "nameFa": "زرمت",
+                "namePa": "زرمت",
+                "latitude": "33.422467",
+                "longitude": "69.017192"
+            },
+            {
+                "id": 330,
+                "name": "Barmal",
+                "nameFa": "برمل",
+                "namePa": "برمل",
+                "latitude": "32.720124",
+                "longitude": "69.213865"
+            },
+            {
+                "id": 443,
+                "name": "Mirzaka",
+                "nameFa": "میرزاکا",
+                "namePa": "میرزاکا",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 453,
+                "name": "N/ A",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Paktika",
+        "nameFa": "پکتیکا",
+        "namePa": "پکتیکا",
+        "latitude": "32.507500",
+        "longitude": "68.117908",
+        "districts": [
+            {
+                "id": 331,
+                "name": "Dila",
+                "nameFa": "دیله",
+                "namePa": "دیله",
+                "latitude": "32.617663",
+                "longitude": "68.123294"
+            },
+            {
+                "id": 332,
+                "name": "Gayan",
+                "nameFa": "گیان",
+                "namePa": "گیان",
+                "latitude": "32.964522",
+                "longitude": "69.416328"
+            },
+            {
+                "id": 333,
+                "name": "Gomal",
+                "nameFa": "گومال",
+                "namePa": "گومال",
+                "latitude": "32.393970",
+                "longitude": "68.981887"
+            },
+            {
+                "id": 334,
+                "name": "Jani Khel",
+                "nameFa": "جانی خیل",
+                "namePa": "جانی خیل",
+                "latitude": "32.720219",
+                "longitude": "68.452528"
+            },
+            {
+                "id": 335,
+                "name": "Mata Khan",
+                "nameFa": "مته خان",
+                "namePa": "مته خان",
+                "latitude": "33.279236",
+                "longitude": "68.863407"
+            },
+            {
+                "id": 336,
+                "name": "Nika",
+                "nameFa": "نیکه",
+                "namePa": "نیکه",
+                "latitude": "33.217786",
+                "longitude": "69.227756"
+            },
+            {
+                "id": 337,
+                "name": "Omna",
+                "nameFa": "اومنا",
+                "namePa": "اومنا",
+                "latitude": "32.917359",
+                "longitude": "68.810713"
+            },
+            {
+                "id": 338,
+                "name": "Sar Hawza",
+                "nameFa": "سره حوزه",
+                "namePa": "سره حوزه",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 339,
+                "name": "Sarobi",
+                "nameFa": "سروبی",
+                "namePa": "سروبی",
+                "latitude": "32.785070",
+                "longitude": "69.124285"
+            },
+            {
+                "id": 340,
+                "name": "Sharan",
+                "nameFa": "شرن",
+                "namePa": "شرن",
+                "latitude": "33.212750",
+                "longitude": "68.747296"
+            },
+            {
+                "id": 341,
+                "name": "Terwa",
+                "nameFa": "تیروه",
+                "namePa": "تیروه",
+                "latitude": "31.886466",
+                "longitude": "68.405391"
+            },
+            {
+                "id": 342,
+                "name": "Urgun",
+                "nameFa": "اورگون",
+                "namePa": "اورگون",
+                "latitude": "32.963344",
+                "longitude": "69.206727"
+            },
+            {
+                "id": 343,
+                "name": "Waza Khwa",
+                "nameFa": "وازه خوا",
+                "namePa": "وازه خوا",
+                "latitude": "32.223650",
+                "longitude": "68.277200"
+            },
+            {
+                "id": 344,
+                "name": "Wor Mamay",
+                "nameFa": "ور مامی",
+                "namePa": "ور مامی",
+                "latitude": "31.962904",
+                "longitude": "68.809059"
+            },
+            {
+                "id": 345,
+                "name": "Yahya Khel",
+                "nameFa": "یحی خیل",
+                "namePa": "یحی خیل",
+                "latitude": "32.905985",
+                "longitude": "68.639031"
+            },
+            {
+                "id": 346,
+                "name": "Yosuf Khel",
+                "nameFa": "یوسف خیل",
+                "namePa": "یوسف خیل",
+                "latitude": "33.036413",
+                "longitude": "68.657889"
+            },
+            {
+                "id": 347,
+                "name": "Zarghun Shahr",
+                "nameFa": "زرغون شهر",
+                "namePa": "زرغون شهر",
+                "latitude": "32.874959",
+                "longitude": "68.442357"
+            },
+            {
+                "id": 348,
+                "name": "Ziruk",
+                "nameFa": "زیروک",
+                "namePa": "زیروک",
+                "latitude": "33.166203",
+                "longitude": "69.382780"
+            },
+            {
+                "id": 454,
+                "name": "gardiz",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Kabul",
+        "nameFa": "کابل",
+        "namePa": "کابل",
+        "latitude": "34.553627",
+        "longitude": "69.057648",
+        "districts": [
+            {
+                "id": 123,
+                "name": "Bagrami",
+                "nameFa": "بگرامی",
+                "namePa": "بگرامی",
+                "latitude": "34.489120",
+                "longitude": "69.305418"
+            },
+            {
+                "id": 124,
+                "name": "Chahar Asyab",
+                "nameFa": "چهاراسیاب",
+                "namePa": "چهاراسیاب",
+                "latitude": "34.393084",
+                "longitude": "69.084620"
+            },
+            {
+                "id": 125,
+                "name": "Deh Sabz",
+                "nameFa": "ده سبز",
+                "namePa": "ده سبز",
+                "latitude": "34.635628",
+                "longitude": "69.325031"
+            },
+            {
+                "id": 126,
+                "name": "Farza",
+                "nameFa": "فرزه",
+                "namePa": "فرزه",
+                "latitude": "34.791648",
+                "longitude": "69.011912"
+            },
+            {
+                "id": 127,
+                "name": "Guldara",
+                "nameFa": "گلدره",
+                "namePa": "گلدره",
+                "latitude": "34.755451",
+                "longitude": "68.997225"
+            },
+            {
+                "id": 128,
+                "name": "Istalif",
+                "nameFa": "استالف",
+                "namePa": "استالف",
+                "latitude": "34.850076",
+                "longitude": "69.018517"
+            },
+            {
+                "id": 129,
+                "name": "Kabul",
+                "nameFa": "کابل",
+                "namePa": "کابل",
+                "latitude": "34.527913",
+                "longitude": "69.169074"
+            },
+            {
+                "id": 130,
+                "name": "Kalakan",
+                "nameFa": "کلکان",
+                "namePa": "کلکان",
+                "latitude": "34.762386",
+                "longitude": "69.160790"
+            },
+            {
+                "id": 131,
+                "name": "Khaki Jabbar",
+                "nameFa": "خاکجبار",
+                "namePa": "خاکجبار",
+                "latitude": "34.340500",
+                "longitude": "69.416240"
+            },
+            {
+                "id": 132,
+                "name": "Mir Bacha Kot",
+                "nameFa": "میر بچه کوت",
+                "namePa": "میر بچه کوت",
+                "latitude": "34.739822",
+                "longitude": "69.107804"
+            },
+            {
+                "id": 133,
+                "name": "Mussahi Bagrami",
+                "nameFa": "موسی",
+                "namePa": "موسی",
+                "latitude": "34.374942",
+                "longitude": "69.165458"
+            },
+            {
+                "id": 134,
+                "name": "Paghman ",
+                "nameFa": "پغمان",
+                "namePa": "پغمان",
+                "latitude": "34.541028",
+                "longitude": "68.946488"
+            },
+            {
+                "id": 135,
+                "name": "Qaarabagh",
+                "nameFa": "قره باغ",
+                "namePa": "قره باغ",
+                "latitude": "34.839496",
+                "longitude": "69.166569"
+            },
+            {
+                "id": 136,
+                "name": "Shakardara Farza",
+                "nameFa": "شکر دره",
+                "namePa": "شکر دره",
+                "latitude": "34.668270",
+                "longitude": "69.062440"
+            },
+            {
+                "id": 137,
+                "name": "Surobi",
+                "nameFa": "سروبي",
+                "namePa": "سروبي",
+                "latitude": "34.633190",
+                "longitude": "69.710301"
+            },
+            {
+                "id": 445,
+                "name": "Center of Kabul",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 446,
+                "name": "District 11",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 447,
+                "name": "District 13",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 448,
+                "name": "Dasht-e-Barchi",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 449,
+                "name": "City District 13",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 463,
+                "name": "PD 03",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 464,
+                "name": "PD 04",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 465,
+                "name": "PD 08",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 466,
+                "name": "PD 13",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 467,
+                "name": "PD 10",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 468,
+                "name": "PD 11",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 469,
+                "name": "PD 01",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 470,
+                "name": "PD 17",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 471,
+                "name": "PD 07",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 477,
+                "name": "PD 02",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 478,
+                "name": "PD 14",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 479,
+                "name": "PD 15",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 480,
+                "name": "PD 16",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 485,
+                "name": "Darulaman",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 495,
+                "name": "PD 5",
+                "nameFa": "ناحیه 5",
+                "namePa": "ناحیه 5",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 498,
+                "name": "PD 6",
+                "nameFa": "PD 6",
+                "namePa": "PD 6",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 500,
+                "name": "PD 09",
+                "nameFa": "ناحیه نهم",
+                "namePa": "ناحیه نهم",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 501,
+                "name": "PD 12",
+                "nameFa": "ناحیه دوازدهم",
+                "namePa": "ناحیه دوازدهم",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Kapisa",
+        "nameFa": "کاپیسا",
+        "namePa": "کاپیسا",
+        "latitude": "34.910274",
+        "longitude": "69.323485",
+        "districts": [
+            {
+                "id": 138,
+                "name": "Alasay",
+                "nameFa": "آلاسای",
+                "namePa": "آلاسای",
+                "latitude": "34.916672",
+                "longitude": "69.813422"
+            },
+            {
+                "id": 139,
+                "name": "Hesa Awal Kohistan",
+                "nameFa": "حصه اول کوهستان",
+                "namePa": "حصه اول کوهستان",
+                "latitude": "35.135942",
+                "longitude": "69.334935"
+            },
+            {
+                "id": 140,
+                "name": "Hesa Duwum Kohistan",
+                "nameFa": "حصه دوم کوهستان",
+                "namePa": "حصه دوم کوهستان",
+                "latitude": "35.069169",
+                "longitude": "69.328034"
+            },
+            {
+                "id": 141,
+                "name": "Koh Band",
+                "nameFa": "کوه بند",
+                "namePa": "کوه بند",
+                "latitude": "35.110987",
+                "longitude": "69.460654"
+            },
+            {
+                "id": 142,
+                "name": "Mahmud Raqi",
+                "nameFa": "محمود راقی",
+                "namePa": "محمود راقی",
+                "latitude": "35.012330",
+                "longitude": "69.382066"
+            },
+            {
+                "id": 143,
+                "name": "Nijrab",
+                "nameFa": "نجراب",
+                "namePa": "نجراب",
+                "latitude": "35.041318",
+                "longitude": "69.632485"
+            },
+            {
+                "id": 144,
+                "name": "Tagab",
+                "nameFa": "تگاب",
+                "namePa": "تگاب",
+                "latitude": "34.803659",
+                "longitude": "69.649529"
+            },
+            {
+                "id": 410,
+                "name": "Kuhistan",
+                "nameFa": "کوهستان",
+                "namePa": "کوهستان",
+                "latitude": "35.045123",
+                "longitude": "69.462431"
+            },
+            {
+                "id": 416,
+                "name": "N/A",
+                "nameFa": "موجود نیست",
+                "namePa": "موجود نیست",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 417,
+                "name": "Center of Kapisa",
+                "nameFa": "مرکز کاپیسا",
+                "namePa": "مرکز کاپیسا",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 418,
+                "name": "Kohistan-1",
+                "nameFa": "کوهستان-1",
+                "namePa": "کوهستان-1",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 419,
+                "name": "Kohistan-2",
+                "nameFa": "کوهستان-2",
+                "namePa": "کوهستان-2",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 420,
+                "name": "Nijrab.",
+                "nameFa": "نجراب",
+                "namePa": "نجراب",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 452,
+                "name": "Hasa Awal Kohistan",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 492,
+                "name": "Hesa Awal",
+                "nameFa": "حصه اول",
+                "namePa": "حصه اول",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 493,
+                "name": "Hesa Dowm",
+                "nameFa": "حصه دوم",
+                "namePa": "حصه دوم",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Kunar",
+        "nameFa": "کنر",
+        "namePa": "کنر",
+        "latitude": "35.006539",
+        "longitude": "70.567869",
+        "districts": [
+            {
+                "id": 178,
+                "name": "Asadabad",
+                "nameFa": "اسعد آباد",
+                "namePa": "اسعد آباد",
+                "latitude": "34.859883",
+                "longitude": "71.117064"
+            },
+            {
+                "id": 179,
+                "name": "Bar Kunar",
+                "nameFa": "بر کنر",
+                "namePa": "بر کنر",
+                "latitude": "35.062438",
+                "longitude": "71.392415"
+            },
+            {
+                "id": 180,
+                "name": "Chapa Dara",
+                "nameFa": "چپه دره",
+                "namePa": "چپه دره",
+                "latitude": "34.901138",
+                "longitude": "70.700645"
+            },
+            {
+                "id": 181,
+                "name": "Chawkay",
+                "nameFa": "چوکی",
+                "namePa": "چوکی",
+                "latitude": "34.745481",
+                "longitude": "70.862733"
+            },
+            {
+                "id": 182,
+                "name": "Dangam",
+                "nameFa": "دانگام",
+                "namePa": "دانگام",
+                "latitude": "35.015631",
+                "longitude": "71.446189"
+            },
+            {
+                "id": 183,
+                "name": "Dara-I-Pech",
+                "nameFa": "دره پیچ",
+                "namePa": "دره پیچ",
+                "latitude": "34.931473",
+                "longitude": "70.911379"
+            },
+            {
+                "id": 184,
+                "name": "Ghaziabad",
+                "nameFa": "غازی اباد",
+                "namePa": "غازی اباد",
+                "latitude": "35.209863",
+                "longitude": "71.320771"
+            },
+            {
+                "id": 185,
+                "name": "Khas Kunar",
+                "nameFa": "خاص کنر",
+                "namePa": "خاص کنر",
+                "latitude": "34.599138",
+                "longitude": "70.919872"
+            },
+            {
+                "id": 186,
+                "name": "Marawara",
+                "nameFa": "مروره",
+                "namePa": "مروره",
+                "latitude": "34.856211",
+                "longitude": "71.219828"
+            },
+            {
+                "id": 187,
+                "name": "Narang Wa Badil",
+                "nameFa": "نرنگ و بادیل",
+                "namePa": "نرنگ و بادیل",
+                "latitude": "34.817816",
+                "longitude": "71.019069"
+            },
+            {
+                "id": 188,
+                "name": "Nari",
+                "nameFa": "ناړۍ",
+                "namePa": "ناړۍ",
+                "latitude": "35.177373",
+                "longitude": "71.508298"
+            },
+            {
+                "id": 189,
+                "name": "Nurgal",
+                "nameFa": "نورگل",
+                "namePa": "نورگل",
+                "latitude": "34.700584",
+                "longitude": "70.728239"
+            },
+            {
+                "id": 190,
+                "name": "Shaygal Wa Shiltan",
+                "nameFa": "شیگل او شیلتن",
+                "namePa": "شیگل او شیلتن",
+                "latitude": "35.019947",
+                "longitude": "71.233756"
+            },
+            {
+                "id": 191,
+                "name": "Sirkanay",
+                "nameFa": "سرکانو",
+                "namePa": "سرکانو",
+                "latitude": "34.705403",
+                "longitude": "71.086416"
+            },
+            {
+                "id": 192,
+                "name": "Wata Pur",
+                "nameFa": "وته پور",
+                "namePa": "وته پور",
+                "latitude": "34.972029",
+                "longitude": "71.079464"
+            },
+            {
+                "id": 474,
+                "name": "Manogay",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "name": "N/A",
+        "nameFa": "موجود نیست",
+        "namePa": "موجود نیست",
+        "latitude": null,
+        "longitude": null,
+        "districts": [
+            {
+                "id": 444,
+                "name": "N/A.",
+                "nameFa": "موجود نیست",
+                "namePa": "موجود نیست",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            },
+            {
+                "id": 455,
+                "name": "Rodat",
+                "nameFa": "",
+                "namePa": "",
+                "latitude": "0.000000",
+                "longitude": "0.000000"
+            }
+        ]
+    }
+]
